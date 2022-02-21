@@ -38,7 +38,7 @@
       .col-md-3
           figcaption Nota: Tomado de Cisco IBSG (2011).
     
-    #t1_1.titulo-segundo.color-secundario
+    #t1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Aplicaciones
     
     p.mb-4 Entre las diferentes áreas de aplicación que tiene el mundo del IoT se destacan las siguientes:
@@ -99,7 +99,7 @@
             h4 Medicina
             p Sus objetivos son detectar de una persona sus signos vitales, así como las variaciones para suministro de medicinas. Aunque la orientación es más a los humanos es posible también monitorear el estado de salud de los animales domésticos. La incorporación de IoT en el sector de la salud transformará el cuidado médico, ya que los centros de atención serán mucho más eficientes, brindando al personal de la salud datos muy importantes de los pacientes en tiempos más cortos, para poder agilizar los procesos médicos.
 
-    #t1_2.titulo-segundo.color-secundario
+    #t1_2.titulo-segundo.color-acento-contenido
       h2 1.2 Desarrollos
     
     p En la actualidad existen muchos desarrollos que incorporan IoT en sus diferentes áreas de aplicación. 
@@ -138,14 +138,6 @@
           .col-md-6.bg-white.p-4
             p Son unas gafas desarrolladas por Google para realidad aumentada, su función principal es poder manejar aplicaciones sin utilizar las manos, solo con comandos de voz, estas gafas incorporan un miniproyector que muestra una imagen virtual al ojo. Estas gafas son usadas en diferentes áreas como la educación, la industria, la medicina, etc.
 
-            
-    
-    
-    
-
-
-
-    
 </template>
 
 <script>
