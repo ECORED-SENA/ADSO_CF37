@@ -1,3 +1,18 @@
+.banner-principal__img
+  animation-name: floating
+  animation-duration: 3s
+  animation-iteration-count: infinite
+  animation-timing-function: ease-in-out
+ 
+@keyframes floating
+  0%
+    transform: translate(0,  0px)
+  50%
+    transform: translate(0, 15px)
+  100%
+    transform: translate(0, -0px)  
+ 
+  
 .BG01
   background-color: $color-primario
 .BG02
@@ -12,9 +27,9 @@
 .BG20
   background-color: lighten($color-secundario, 45%)
 .BG30
-  background-color: lighten($color-acento-contenido, 31%)
+  background-color: lighten($color-acento-contenido, 25%) !important
 .BG40
-  background-color: lighten($color-acento-botones, 30%)
+  background-color: lighten($color-acento-botones, 28%) !important
 
 .BG11
   background-color: lighten($color-primario, 30%)
@@ -79,3 +94,10 @@
 .mNeg01
   margin-top: -30px;
   margin-bottom: -30px;
+
+.etiqueta
+  background-color: lighten($color-acento-botones, 15%) !important
+  color: $black !important
+
+.tarjeta--azul
+  background-color: lighten($color-primario, 20%)

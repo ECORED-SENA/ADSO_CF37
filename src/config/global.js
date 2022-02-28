@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Tecnologías emergentes y disruptivas',
     descripcionCurso:
-      'La innovación que conlleva las tecnologías emergentes está ofreciendo cada vez más la creación de productos y servicios por parte de las empresas u organizaciones que hacen un gran aporte a la sociedad. Tecnologías como IOT Blockchain, Machine learning, Deep learning que traen grandes desarrollos que serán protagonistas como las impresoras 3D, embriones artificiales, redes degenerativas etc., por citar algunos ejemplos.',
+      'La innovación que conlleva las tecnologías emergentes está ofreciendo cada vez más la creación de productos y servicios por parte de las empresas u organizaciones que hacen un gran aporte a la sociedad. Tecnologías como IOT <i>Blockchain</i>, <i>Machine learning</i>, <i>Deep learning</i> que traen grandes desarrollos que serán protagonistas como las impresoras 3D, embriones artificiales, redes degenerativas etc., por citar algunos ejemplos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.jpg'),
   },
@@ -50,14 +50,20 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Aplicaciones',
+            titulo: 'Historia',
             hash: 't2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Desarrollos',
+            titulo: 'Aplicaciones',
             hash: 't2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'Desarrollos',
+            hash: 't2_3',
           },
         ],
       },
@@ -130,7 +136,7 @@ export default {
   },
   referencias: [
     {
-      referencia: 'Gupta, S. (2017). Blockchain. IBM Onlone. ',
+      referencia: 'Gupta, S. (2017). <i>Blockchain</i>. IBM Onlone. ',
       link: 'http://www.ibm.com',
     },
     {
@@ -141,12 +147,12 @@ export default {
     },
     {
       referencia:
-        'Nakamoto, S. (2008). Bitcoin: un sistema de efectivo electrónico. ',
+        'Nakamoto, S. (2008). <i>Bitcoin</i>: un sistema de efectivo electrónico. ',
       link:
         'https://translatewhitepaper.com/wp-content/uploads/2021/04/Bitcoin-BTC-Spanish.pdf',
     },
     {
-      referencia: 'Nakamoto, S. (2008). Bitcoin whitepaper. ',
+      referencia: 'Nakamoto, S. (2008). <i>Bitcoin whitepaper</i>. ',
       link: 'https://bitcoin.org/bitcoin.Pdf',
     },
     {
@@ -157,7 +163,7 @@ export default {
     },
     {
       referencia:
-        'Tapscott, D. & Tapscott, A. (2017). La revolución blockchain. Descubre cómo esta nueva tecnología transformará la economía global. Ediciones Deusco. ',
+        'Tapscott, D. & Tapscott, A. (2017). La revolución <i>blockchain</i>. Descubre cómo esta nueva tecnología transformará la economía global. Ediciones Deusco. ',
       link:
         'https://static0planetadelibroscommx.cdnstatics.com/libros_contenido_extra/35/34781_La_revolucion_blockchain.pdf',
     },
@@ -175,7 +181,7 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Waymo. (2021). Waymo. https://waymo.com/intl/es',
+      texto: '<i>Waymo</i>. (2021). <i>Waymo</i>. https://waymo.com/intl/es',
       tipo: 'Página web',
       link: 'https://waymo.com/intl/es',
     },
@@ -199,7 +205,13 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Mario Fernando Meneses Calvache',
+        cargo: 'Experto Temático',
+        centro:
+          'Centro de teleinformática y producción industrial - Regional Cauca',
       },
     ],
     desarrolloProducto: [
@@ -207,7 +219,7 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
@@ -218,25 +230,66 @@ export default {
         nombre: 'Carlo Julián Ramírez Benítez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Luis Gabriel Urueta Alvarez',
+        cargo: 'Desarrollo Front-End',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Laura Gisselle Murcia Pardo',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ludwyng Corzo García',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Mayra Alejandra Alvarez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
