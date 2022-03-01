@@ -103,7 +103,7 @@
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-down")
         h5 Figura 7.
-        span  Tipos de #[i machine learning]
+        span #[i Método de clasificación]
       .row.justify-content-center.mb-4(data-aos="fade-left")
         .col-lg-4
           figure.mb-4
@@ -120,7 +120,7 @@
 
       .titulo-sexto.color-acento-contenido
         h5 Figura 8.
-        span  Proceso aprendizaje no supervisado
+        span  #[i Proceso aprendizaje no supervisado]
 
       .row.justify-content-center.mb-4
         .col-lg-10
@@ -135,7 +135,7 @@
 
       .titulo-sexto.color-acento-contenido
         h5 Figura 9.
-        span  Aprendizaje por refuerzo
+        span  #[i Aprendizaje por refuerzo]
 
       .row.justify-content-center.mb-4
         .col-lg-7

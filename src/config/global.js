@@ -208,10 +208,30 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Mario Fernando Meneses Calvache',
-        cargo: 'Experto Temático',
+        nombre: 'Jonathan Guerrero Astaiza',
+        cargo: 'Experto temático',
+        centro: 'Centro de Teleinformática y Producción Industrial',
+      },
+      {
+        nombre: 'Zulema León Escobar',
+        cargo: 'Experta temática',
+        centro: 'Centro de Teleinformática y Producción Industrial',
+      },
+      {
+        nombre: 'Zenith Chinchilla Ruedas',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisora metodológica y pedagógica',
         centro:
-          'Centro de teleinformática y producción industrial - Regional Cauca',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [

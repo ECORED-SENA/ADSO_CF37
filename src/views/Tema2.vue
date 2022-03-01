@@ -34,7 +34,7 @@
           figure
             img(src='@/assets/curso/tema2/img03.svg', alt='Blockchain')
     
-    p.mb-4 #[strong En la siguiente figura se muestra gráficamente la comparación entre un sistema tradicional y un sistema blockchain.]
+    p.mb-4 #[strong En la siguiente figura se muestra gráficamente la comparación entre un sistema tradicional y un sistema <em>blockchain</em>.]
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 3.
@@ -51,7 +51,7 @@
     #t2_1.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 2.1 Historia
     
-    p(data-aos="fade-down") El #[i blockchain] tuvo su inicio en los años de 1991-2008, en un primer trabajo Stuart Haber y Scott realizaron tareas en una cadena de bloques que era protegida criptográficamente, esto quería decir que no se podía realizar ningún tipo de manipulación en las marcas de tiempo de los documentos. En el año 1991 se añadieron árboles de Merkle que lograron una mejor eficiencia, permitiendo que en un solo bloque se recopilara más de un documento. Pero es en el año 2008 que el #[i blockchain] inicia su crecimiento cuando Satoshi Nakamoto y un grupo de personas lanzan su trabajo con #[i bitcoin], creando la primera aplicación de registro digital que permitía administrar la red del #[i bitcoin], permitiendo la interacción por medio de foros entre los interesados.
+    p(data-aos="fade-down") El #[i blockchain] tuvo su inicio en los años de 1991-2008, en un primer trabajo Stuart Haber y Scott realizaron tareas en una cadena de bloques que era protegida criptográficamente, esto quería decir que no se podía realizar ningún tipo de manipulación en las marcas de tiempo de los documentos. En el año 1991 se añadieron árboles de #[i Merkle] que lograron una mejor eficiencia, permitiendo que en un solo bloque se recopilara más de un documento. Pero es en el año 2008 que el #[i blockchain] inicia su crecimiento cuando Satoshi Nakamoto y un grupo de personas lanzan su trabajo con #[i bitcoin], creando la primera aplicación de registro digital que permitía administrar la red del #[i bitcoin], permitiendo la interacción por medio de foros entre los interesados.
 
     .row.justify-content-between
       .col-md-6(data-aos="flip-up")
@@ -202,7 +202,7 @@
           | Los bloques pueden ser creados por cualquier persona desde su computador.
         li 
           i.fas.fa-check
-          | Los bloques se crean utilizando un #[i software especial].
+          | Los bloques se crean utilizando un #[i software] especial.
         li 
           i.fas.fa-check
           | La capacidad de registro de un bloque está entre 2000 y 2400 transacciones.
