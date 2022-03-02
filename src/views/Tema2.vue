@@ -296,7 +296,7 @@
             figure
               img(src='@/assets/curso/tema2/img28.jpg', alt='Steemit')
           .col-md-6.bg-white.p-4
-            p Consiste en una red social no centralizada que incorpora la tecnología steemit #[i blockchain], su principal función es premiar a todos los usuarios #[i bitcoin] que estén activos, esta se consigue realizando publicaciones, comentarios, etc.
+            p Consiste en una red social no centralizada que incorpora la tecnología #[i steemit] #[i blockchain], su principal función es premiar a todos los usuarios #[i bitcoin] que estén activos, esta se consigue realizando publicaciones, comentarios, etc.
       
       .py-4.py-md-5.BGcolorH(titulo="<i> Koibanx</i>")
         .row.justify-content-evenly.align-items-center

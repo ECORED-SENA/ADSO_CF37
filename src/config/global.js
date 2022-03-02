@@ -141,7 +141,7 @@ export default {
     },
     {
       referencia:
-        'Hinestroza, D. (2018). El machine learning a través de los tiempos y los aportes a la humanidad. Doctoral dissertation Universidad Libre Seccional Pereira. ',
+        'Hinestroza, D. (2018). El <i>machine learning</i> a través de los tiempos y los aportes a la humanidad. Doctoral dissertation Universidad Libre Seccional Pereira. ',
       link:
         'https://repository.unilibre.edu.co/bitstream/handle/10901/17289/EL%20MACHINE%20LEARNING.pdf?sequence=1&isAllowed=y',
     },
