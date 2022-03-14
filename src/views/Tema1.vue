@@ -88,7 +88,7 @@
         
           .col-md-5
             h4 Videovigilancia y seguridad
-            p Consiste en la configuración y control de una variedad de equipos de seguridad tales como sensores de movimiento, alarmas inteligentes, detección de amenazas para proteger la seguridad de edificaciones, casas y así contar con una prevención cuando se presenten situaciones de riesgo.es, etc.
+            p Consiste en la configuración y control de una variedad de equipos de seguridad tales como sensores de movimiento, alarmas inteligentes, detección de amenazas para proteger la seguridad de edificaciones, casas y así contar con una prevención cuando se presenten situaciones de riesgo, etc.
         
         .row.justify-content-evenly.align-items-center
           .col-md-3

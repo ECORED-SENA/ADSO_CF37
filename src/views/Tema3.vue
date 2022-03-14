@@ -27,7 +27,7 @@
           p El informático y profesor Arthur Samuel lanza el primer programa para computadores preparado para aprender. El #[i software] consistía en un juego de damas que almacenaba información y estrategias de juego y que entre más partidas se jugaba había un mayor mejoramiento en el juego.
 
         .row.mx-5(titulo="1956")
-          p Con el apoyo de Minsky, John McCarthy Claude Shannon y Nathan Rochester dan nacimiento a la inteligencia artificial.
+          p Con el apoyo de Minsky, John McCarthy, Claude Shannon y Nathan Rochester dan nacimiento a la inteligencia artificial.
         
         .row.mx-5(titulo="1958")
           p Rosenblat da a conocer la primera red neuronal artificial.
@@ -67,7 +67,7 @@
       .titulo-sexto.color-acento-contenido(data-aos="fade")
         h5 Figura 4.
         span  AI vs. #[i Machine Learning]
-      h4.mb-4.text-center Inteligencia Artificial vs #[i Machine Learning] 
+      h4.mb-4.text-center Inteligencia Artificial vs. #[i Machine Learning] 
       figure.mb-4
         img.mb-3(src='@/assets/curso/tema3/img02.svg', alt='Texto que describa la imagen')
         figcaption.bg-white Nota: Tomado de Future space https://www.futurespace.es/machine-learning-los-origenes-y-la-evolucion/

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Tecnologías emergentes y disruptivas',
     descripcionCurso:
-      'La innovación que conlleva las tecnologías emergentes está ofreciendo cada vez más la creación de productos y servicios por parte de las empresas u organizaciones que hacen un gran aporte a la sociedad. Tecnologías como IOT <i>Blockchain</i>, <i>Machine learning</i>, <i>Deep learning</i> que traen grandes desarrollos que serán protagonistas como las impresoras 3D, embriones artificiales, redes degenerativas etc., por citar algunos ejemplos.',
+      'La innovación que conlleva las tecnologías emergentes está ofreciendo cada vez más la creación de productos y servicios por parte de las empresas u organizaciones que hacen un gran aporte a la sociedad. Tecnologías como IOT <i>Blockchain</i>, <i>Machine learning</i>, <i>Deep learning</i> que traen grandes desarrollos que serán protagonistas como las impresoras 3D, embriones artificiales, redes degenerativas, etc., por citar algunos ejemplos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.jpg'),
   },
@@ -98,7 +98,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {

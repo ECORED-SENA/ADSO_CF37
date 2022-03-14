@@ -1,16 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1242" height="812" viewBox="0 0 1242 812">
   <g id="Grupo_144956" data-name="Grupo 144956" transform="translate(2551 1769)">
-    <g id="Grupo_144955" data-name="Grupo 144955">
-      <rect id="Rectángulo_43889" data-name="Rectángulo 43889" width="1242" height="812" transform="translate(-2551 -1769)" fill="#f6f6f6"/>
-    </g>
+    <rect id="Rectángulo_43889" data-name="Rectángulo 43889" width="1242" height="812" transform="translate(-2551 -1769)" fill="#f6f6f6"/>
     <rect id="Rectángulo_43890" data-name="Rectángulo 43890" width="223" height="59" transform="translate(-2040 -1737)" fill="#ffca28"/>
     <text id="Tecnologías_Emergentes" data-name="Tecnologías Emergentes" transform="translate(-2018 -1702)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Tecnologías Emergentes</tspan></text>
     <rect id="Rectángulo_43891" data-name="Rectángulo 43891" width="197" height="50" transform="translate(-2027 -1613)" fill="#1565c0"/>
-    <text id="Blockchain" transform="translate(-1968 -1582)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Blockchain</tspan></text>
+    <text id="Blockchain" transform="translate(-1968 -1582)" fill="#fff" font-size="16" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">Blockchain</tspan></text>
     <rect id="Rectángulo_43892" data-name="Rectángulo 43892" width="197" height="50" transform="translate(-2523 -1519)" fill="#1565c0"/>
     <text id="Aplicaciones" transform="translate(-2470 -1488)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Aplicaciones</tspan></text>
     <rect id="Rectángulo_43893" data-name="Rectángulo 43893" width="197" height="50" transform="translate(-1645 -1545)" fill="#1565c0"/>
-    <text id="Machine_Learning" data-name="Machine Learning" transform="translate(-1611 -1514)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Machine Learning</tspan></text>
+    <text id="Machine_Learning" data-name="Machine Learning" transform="translate(-1611 -1514)" fill="#fff" font-size="16" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">Machine Learning</tspan></text>
     <ellipse id="Elipse_5234" data-name="Elipse 5234" cx="103" cy="28" rx="103" ry="28" transform="translate(-2532 -1406)" fill="#afecf4"/>
     <text id="Domótica" transform="translate(-2463 -1372)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Domótica</tspan></text>
     <ellipse id="Elipse_5235" data-name="Elipse 5235" cx="103" cy="28" rx="103" ry="28" transform="translate(-2532 -1336)" fill="#afecf4"/>
@@ -24,7 +22,7 @@
     <ellipse id="Elipse_5239" data-name="Elipse 5239" cx="103" cy="28" rx="103" ry="28" transform="translate(-2532 -1056)" fill="#afecf4"/>
     <text id="Medicina" transform="translate(-2461 -1022)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Medicina</tspan></text>
     <rect id="Rectángulo_43894" data-name="Rectángulo 43894" width="197" height="50" transform="translate(-2291 -1437)" fill="#afecf4"/>
-    <text id="Hardware" transform="translate(-2227 -1406)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Hardware</tspan></text>
+    <text id="Hardware" transform="translate(-2227 -1406)" fill="#12263f" font-size="16" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">Hardware</tspan></text>
     <ellipse id="Elipse_5240" data-name="Elipse 5240" cx="103" cy="28" rx="103" ry="28" transform="translate(-2300 -1336)" fill="#afecf4"/>
     <text id="Sensores" transform="translate(-2230 -1302)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Sensores</tspan></text>
     <rect id="Rectángulo_43895" data-name="Rectángulo 43895" width="197" height="50" transform="translate(-2027 -1418)" fill="#afecf4"/>
@@ -53,7 +51,7 @@ Financieras" transform="translate(-1935 -1101)" fill="#12263f" font-size="16" fo
     <path id="Trazado_192698" data-name="Trazado 192698" d="M-3506.5-1707.5l-369.836,187.354" transform="translate(1462)" fill="none" stroke="#707070" stroke-width="1"/>
     <path id="Trazado_192699" data-name="Trazado 192699" d="M-3878.535-1469v56.148" transform="translate(1462)" fill="none" stroke="#707070" stroke-width="1"/>
     <rect id="Rectángulo_43901" data-name="Rectángulo 43901" width="197" height="50" transform="translate(-2291 -1597)" fill="#1565c0"/>
-    <text id="Lot" transform="translate(-2204 -1566)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Lot</tspan></text>
+    <text id="Lot" transform="translate(-2204 -1566)" fill="#fff" font-size="16" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">Lot</tspan></text>
     <path id="Trazado_192700" data-name="Trazado 192700" d="M-3397-1678v63.539" transform="translate(1462)" fill="none" stroke="#707070" stroke-width="1"/>
     <path id="Trazado_192701" data-name="Trazado 192701" d="M-3397-1678v110.539" transform="translate(1204.5 130.461)" fill="none" stroke="#707070" stroke-width="1"/>
     <path id="Trazado_192702" data-name="Trazado 192702" d="M-3397-1678v51.539" transform="translate(1204.5 290.461)" fill="none" stroke="#707070" stroke-width="1"/>

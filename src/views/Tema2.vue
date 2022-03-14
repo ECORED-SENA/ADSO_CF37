@@ -21,7 +21,7 @@
 
     .row.mb-4(data-aos="flip-left")
       .col-lg-6
-        p.p-5.BGcolorH.mb-0 Cuando una persona llamada Pepito quiere realizar un envío de un millón de pesos a otra persona llamada Mario normalmente se hace por medio de un banco, donde el banco actúa como intermediario de esta transacción haciendo una centralización efectiva para hacer el movimiento de un lado al otro. En este proceso, ni Pepito ni Mario intervienen, son totalmente dependientes del banco y a las condiciones de este como comisiones, por ejemplo, es aquí donde el #[i blockchain] o cadena de bloques interviene, porque su principal objetivo es eliminar los intermediarios haciendo una gestión totalmente descentralizada, donde el control ya no va a hacer de los bancos si no de los usuarios convirtiéndose estos en una conexión de muchos nodos del banco. 
+        p.p-5.BGcolorH.mb-0 Cuando una persona llamada Pepito quiere realizar un envío de un millón de pesos a otra persona llamada Mario normalmente se hace por medio de un banco, donde el banco actúa como intermediario de esta transacción haciendo una centralización efectiva para hacer el movimiento de un lado al otro. En este proceso, ni Pepito ni Mario intervienen, son totalmente dependientes del banco y a las condiciones de este como comisiones, por ejemplo, es aquí donde el #[i blockchain] o cadena de bloques interviene, porque su principal objetivo es eliminar los intermediarios haciendo una gestión totalmente descentralizada, donde el control ya no va a ser de los bancos sino de los usuarios convirtiéndose estos en una conexión de muchos nodos del banco. 
       .col-lg-6
         figure
           img(src='@/assets/curso/tema2/img02.svg', alt='Ejemplo')
@@ -63,7 +63,7 @@
         figure
           img(src='@/assets/curso/tema2/img06.jpg', alt='Blockchain')
 
-    p(data-aos="flip-left") Ya para los años 20013-2015 #[i blockchain] evolucionó a su versión 2.0 y trajo con esta versión los llamados contratos inteligentes (#[i smart contracts]) desarrollo realizado por Vitalik Butterin y al que llamaron #[i Ethereum], que incorporaba una función que ofrece a los individuos registrar otro tipo de activos como lo son los contratos, ampliando a una plataforma que también desarrolla aplicaciones descentralizadas. Un contrato inteligente es un conjunto de instrucciones que se almacenan en un #[i blockchain], las cuales se ejecutan automáticamente dependiendo de los parámetros programados, esta ejecución se realiza de forma segura e inmutable. 
+    p(data-aos="flip-left") Ya para los años 2013-2015 #[i blockchain] evolucionó a su versión 2.0 y trajo con esta versión los llamados contratos inteligentes (#[i smart contracts]) desarrollo realizado por Vitalik Butterin y al que llamaron #[i Ethereum], que incorporaba una función que ofrece a los individuos registrar otro tipo de activos como lo son los contratos, ampliando a una plataforma que también desarrolla aplicaciones descentralizadas. Un contrato inteligente es un conjunto de instrucciones que se almacenan en un #[i blockchain], las cuales se ejecutan automáticamente dependiendo de los parámetros programados, esta ejecución se realiza de forma segura e inmutable. 
 
     p.mb-4 A partir del 2018 surgen una serie de proyectos explotando la gran capacidad de la tecnología #[i blockchain], estos proyectos buscaban tratar las fallas de #[i Ethereum] y #[i Bitcoin], incluyendo también nuevas características. Una de las aplicaciones más representativas fueron IOTA y NEO enfocadas en proporcionar más seguridad y escalabilidad que las aplicaciones iniciales de #[i blockchain].
 
@@ -95,21 +95,21 @@
         
         .row.mx-5(titulo="2013")
           .col-md-6.mb-4.mb-md-0
-            p El mercado de #[i bitcoin] supera los $1 mil millones Vitalik Buterín lanza el #[i whitepaper] de #[i Ethereum].     
+            p El mercado de #[i bitcoin] supera los $1 mil millones. Vitalik Buterín lanza el #[i whitepaper] de #[i Ethereum].     
           .col-md-2
             figure
               img(src='@/assets/curso/tema2/img11.svg', alt='Texto que describa la imagen')
         
         .row.mx-5(titulo="2014")
           .col-md-6.mb-4.mb-md-0
-            p #[i Ethereum blockchain] es financiado por crowdsale La tecnología #[i blockchain] R3 se forma e inicia un consorcio de más de 40 compañías financieras legadas para implementar la tecnología #[i blockchain].  
+            p #[i Ethereum blockchain] es financiado por crowdsale. La tecnología #[i blockchain] R3 se forma e inicia un consorcio de más de 40 compañías financieras legadas para implementar la tecnología #[i blockchain].  
           .col-md-3
             figure
               img(src='@/assets/curso/tema2/img10.svg', alt='Texto que describa la imagen')
         
         .row.mx-5(titulo="2015")
           .col-md-6.mb-4.mb-md-0
-            p El bloque Génesis de #[i Ethereum] es creado Linux foundation presenta hyperledger para mejorar.
+            p El bloque Génesis de #[i Ethereum] es creado. Linux foundation presenta hyperledger para mejorar.
           .col-md-3
             figure
               img(src='@/assets/curso/tema2/img07.svg', alt='Texto que describa la imagen')
@@ -202,13 +202,13 @@
           | Los bloques pueden ser creados por cualquier persona desde su computador.
         li 
           i.fas.fa-check
-          | Los bloques se crean utilizando un #[i software] especial.
+          p Los bloques se crean utilizando un <em>software</em> especial.
         li 
           i.fas.fa-check
           | La capacidad de registro de un bloque está entre 2000 y 2400 transacciones.
         li 
           i.fas.fa-check
-          | La recompensa que gana el primero que realice la validación es de 50 #[i bitcoins].
+          p La recompensa que gana el primero que realice la validación es de 50 #[i bitcoins].
         li 
           i.fas.fa-check
           | Para agregar un bloque nuevo la persona que lo genere lo debe enviar al resto de la red.
