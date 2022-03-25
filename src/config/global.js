@@ -136,8 +136,8 @@ export default {
   },
   referencias: [
     {
-      referencia: 'Gupta, S. (2017). <i>Blockchain</i>. IBM Onlone. ',
-      link: 'http://www.ibm.com',
+      referencia: 'Gupta, S. (2017). <i>Blockchain</i>. IBM Online. ',
+      link: 'https://www.ibm.com/blockchain',
     },
     {
       referencia:
